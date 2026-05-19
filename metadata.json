@@ -1,0 +1,7 @@
+{
+  "name": "Ecoland Manager",
+  "description": "Multi-service management platform for Ecoland.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
